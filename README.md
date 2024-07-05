@@ -2,9 +2,16 @@
 
 Welcome to the Social Influence Game, a browser-based interactive simulation that challenges players to strategically add or remove connections within a network to maximize their influence over 20 turns. Each turn, players can either establish a new connection or cut an existing one to shift the balance of influence within the network.
 
+## Play the Game Online
+
+You can play the Social Influence Game online by clicking the following link:
+
+[Play Social Influence Game by Galen](http://galenwilkerson.github.io/social_influence_game.html)
+
+
 ## Game Overview
 
-The Social Influence Game is designed to simulate the dynamics of social influence and network theory. Players are given a budget and must make strategic decisions to outmaneuver their opponent in a finite number of turns. The game ends after 20 turns, and the player with the highest budget wins.
+The Social Influence Game is designed to simulate the dynamics of social influence and network theory. Players are given a budget and must make strategic decisions to outmaneuver their opponent in a finite number of turns. The game ends after 20 turns, and the player with the highest budget wins.  Funds flow from network nodes along directed edges.
 
 ## Installation
 
