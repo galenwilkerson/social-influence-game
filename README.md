@@ -6,7 +6,7 @@ Welcome to the Social Influence Game, a browser-based interactive simulation tha
 
 You can play the Social Influence Game online by clicking the following link:
 
-[Play Social Influence Game by Galen](http://galenwilkerson.github.io/social_influence_game.html)
+[Play Social Influence Game](http://galenwilkerson.github.io/social_influence_game.html)
 
 
 ## Game Overview
