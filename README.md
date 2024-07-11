@@ -1,6 +1,6 @@
 # Social Influence Game
 
-![alt text]()
+![](./1720714876080.jpeg)
 
 
 Welcome to the Social Influence Game, a browser-based interactive simulation that challenges players to strategically add or remove connections within a network to maximize their influence over 20 turns. Each turn, players can either establish a new connection or cut an existing one to shift the balance of influence within the network.
